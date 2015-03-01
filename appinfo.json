@@ -1,0 +1,19 @@
+{
+  "uuid": "cd4d80bf-b518-49e9-b6e1-6ad964308281",
+  "shortName": "RTM",
+  "longName": "Remember The Milk",
+  "companyName": "Alex Mülli",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}

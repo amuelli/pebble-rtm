@@ -1,0 +1,3 @@
+build
+*.swp
+.lock-waf_darwin_build
